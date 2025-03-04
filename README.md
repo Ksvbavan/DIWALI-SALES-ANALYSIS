@@ -3,7 +3,7 @@
 ## Project Overview
 This project delves into the Diwali Sales dataset from Kaggle, leveraging Exploratory Data Analysis (EDA) to extract meaningful insights. The findings aim to optimize business strategies, enhance customer targeting, and boost sales performance.
 
-##Key Objectives
+## Key Objectives
 
 Data Preparation & Cleaning: The dataset is refined to ensure accuracy, consistency, and reliability for effective analysis.
 
